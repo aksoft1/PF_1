@@ -105,7 +105,7 @@ public class ex1 {
 		}
 		*/
 		
-		/*
+		
 		
 		int dan = 2;
 		int mul = 1;
@@ -120,7 +120,7 @@ public class ex1 {
 		mul = 1;
 		dan = dan + 1;
 		}
-		*/
+		
 	}
 }
 	
